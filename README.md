@@ -3,7 +3,7 @@
 <div style="display:flex ">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickGonzagaDev&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGonzagaDev&layout=compact&theme=transparent)](https://github.com/ErickGonzagaDev/github-readme-stats)
+
 
 
 </div>
