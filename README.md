@@ -33,7 +33,7 @@
 ### Studying in this moment:
 <div  display="flex">
 <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" width="30" height="40" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>
+<img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>
 </div>
   
   <div align="center">
