@@ -32,7 +32,8 @@
   
 ### Studying in this moment:
  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
+<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-my-sql-16.png">
+  
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ErikGonzagaDev}/count.svg" /></p> 
