@@ -33,7 +33,7 @@
 
   
 ### Studying in this moment:
-<div  display="flex">
+<div  display="flex" align-items="center">
 <!-- <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>-->
 <img width="30" height="30" src="https://img.icons8.com/color/48/sass-avatar.png" alt="sass-avatar"/>
 <img width="30" height="30" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
