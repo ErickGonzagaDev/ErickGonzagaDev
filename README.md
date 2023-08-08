@@ -35,6 +35,7 @@
 <div  display="flex">
 <!-- <img align="center" width="48" height="48" src="https://img.icons8.com/fluency/48/my-sql.png" alt="my-sql"/>-->
 <img width="30" height="30" src="https://img.icons8.com/office/30/react.png" alt="react"/>
+<img width="30" height="30" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 <img width="30" height="30" src="https://img.icons8.com/color/48/sass-avatar.png" alt="sass-avatar"/>
 </div>
   
