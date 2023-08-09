@@ -37,8 +37,4 @@
 <img width="30" height="30" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 </div>
   
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{erikgonzagadev}/count.svg" /></p> 
-<br></div>
-  
+
